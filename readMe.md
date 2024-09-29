@@ -6,14 +6,14 @@ It's a simple login page designed with HTML, CSS, and JavaScript. This project f
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Demo [Live Project Link]](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 
 ## Demo
 
-![Demo](path/to/your/demo/image.png)
+Live Project Link : https://abhinavv9258.github.io/Celebrare_Task/
 
 ## Features
 
@@ -36,4 +36,3 @@ It's a simple login page designed with HTML, CSS, and JavaScript. This project f
    ```bash
    git clone https://github.com/Abhinavv9258/celebrare_task.git
    ```
-
