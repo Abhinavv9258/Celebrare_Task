@@ -15,6 +15,9 @@ It's a simple login page designed with HTML, CSS, and JavaScript. This project f
 
 Live Project Link : https://abhinavv9258.github.io/Celebrare_Task/
 
+Demo videos: (Click on Image)
+[![Watch the video](https://github.com/user-attachments/assets/9532233f-69e7-4915-9d69-3b22e1f03dcc)](https://player.vimeo.com/video/1014004857?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
+
 ## Features
 
 - Responsive design that adjusts to various screen sizes.
